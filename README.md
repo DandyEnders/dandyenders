@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my overview!
+
+[Blog](https://jinhohwang.notion.site/Jinho-s-website-9e6e54689dd3405fa90fc91465eef4cb)
 
 <!--
 **DandyEnders/dandyenders** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
