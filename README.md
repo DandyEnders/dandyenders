@@ -1,6 +1,7 @@
 <div align="center">
 <h3>Nice to meet you!</h3>
 <p>Jinho is a B.Eng software dev.</p>
+<p>Jinho likes to learn new things and explain them to others! :)</p>
   
 #
   
